@@ -1,0 +1,20 @@
+timezone: Europe/Berlin
+
+title: Proxer-Devblog
+author:
+  name: Proxer-Admin
+  email: "support@proxer.de"
+
+description: >-
+  Proxer.me Devblog
+baseurl: ""
+url: "https://proxerdev.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: auto
+  date_format: "%d.%m.%Y %H:%M"
