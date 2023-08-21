@@ -10,7 +10,7 @@ Proxer ist für uns eine Tätigkeit, die wir in unserer Freizeit durchführen. I
 
 ### Entwickler Blog und GitHub
 
-Wie Dravorle im [vorherigen Post](/2023/08/15/first-devblog.html) erläutert hat, haben wir nun ein Entwickler-Blog! Das Ganze ist auf GitHub gehostet. Im Hintergrund arbeiten wir daran, öfter GitHub für unsere Entwicklungsaktivitäten zu nutzen. Wir möchten beispielsweise mehr GitHub Actions nutzen, um unsere Herausforderungen zu meistern. Wir versprechen uns so eine modernere Infrastruktur, ohne dabei neue Baustellen oder Infrastruktur aufzubauen.
+Wie Dravorle im [vorherigen Post](/devblog/proxer2.0/2023/08/15/first-devblog.html) erläutert hat, haben wir nun ein Entwickler-Blog! Das Ganze ist auf GitHub gehostet. Im Hintergrund arbeiten wir daran, öfter GitHub für unsere Entwicklungsaktivitäten zu nutzen. Wir möchten beispielsweise mehr GitHub Actions nutzen, um unsere Herausforderungen zu meistern. Wir versprechen uns so eine modernere Infrastruktur, ohne dabei neue Baustellen oder Infrastruktur aufzubauen.
 
 ### E-Mail Bestätigungen
 
