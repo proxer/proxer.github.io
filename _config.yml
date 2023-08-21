@@ -8,7 +8,7 @@ author:
 description: >-
   Proxer.me Devblog
 baseurl: ""
-url: "https://proxerdev.github.io"
+url: "https://proxer.github.io"
 
 # Build settings
 plugins:
