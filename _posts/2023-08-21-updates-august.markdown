@@ -3,7 +3,7 @@ layout: post
 title:  "Updates August 2023"
 date:   2023-08-21 15:00:00 +0200
 categories: devblog updates
-author: Genesis
+author: genesis
 ---
 
 Proxer ist für uns eine Tätigkeit, die wir in unserer Freizeit durchführen. Ich habe seit letzter Woche Urlaub und habe ich mir vorgenommen, ein wenig meine angestauten Aufgaben auf Proxer anzugehen. Es sind dabei ein paar Neuerungen dazu gekommen, auf die ich hier kurz eingehen möchte.

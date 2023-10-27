@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Statusseite mit Cachet"
-date:   2023-10-27 16:30:00 +0200
-categories: devblog status
+date:   2023-10-27 14:30:00 +0200
+categories: devblog services
 author: genesis
 ---
 
