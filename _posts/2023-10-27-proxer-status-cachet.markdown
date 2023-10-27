@@ -25,12 +25,12 @@ Die Möglichkeit über eine API den Status zu aktualisieren ist genau das, was w
 
 <img src="https://cdn.proxer.me/f/ATxbbMu0" alt="Nyan-Cat" />
 
-Das Nyan-Cat Design der alten Statusseite hat uns über die Jahre mit begleitet. Es ist nahezu ikonisch geworden und teil unserer Proxer-Kultur. Daher wurde das Design auch in Cachet übernommen, was sich als eine gut machbar gezeigt hat.
+Das Nyan-Cat Design der alten Statusseite hat uns über die Jahre mit begleitet. Es ist nahezu ikonisch geworden und Teil unserer Proxer-Kultur. Daher wurde das Design auch in Cachet übernommen.
 
 ### Datenquelle
 
 Auf unseren Proxer-Streams haben wir bereits seit längerem ein automatisches Meldesystem, falls unsere Mitglieder mit Timeouts konfrontiert sind. Wir können also genau sehen, wann welcher Server irgendwelche Probleme hatte.
-Die Daten aus diesen automatischen Meldungen geben aufschluss über den Status der Stream-Server. Haben wir in kurzer Zeit ein paar Meldungen, so ist der Server überlastet. Haben wir sehr viele Meldungen, so ist ein Server vermutlich ausgefallen.
+Die Daten aus diesen automatischen Meldungen geben Aufschluss über den Status der Stream-Server. Haben wir in kurzer Zeit ein paar Meldungen, so ist der Server überlastet. Haben wir sehr viele Meldungen, so ist ein Server vermutlich ausgefallen.
 
 Für [Python hat Cachet eine Bibliothek](https://pypi.org/project/cachet-client/), mit der man die Cachet API ansteuern kann. Mithilfe dieser Bibliothek ist es nur ein paar Zeilen Code, den Status der Server zu aktualisieren. 
 
